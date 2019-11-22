@@ -1,0 +1,460 @@
+[
+  {
+    "author": "brave",
+    "name": "brave-browser",
+    "avatar": "https://github.com/brave.png",
+    "url": "https://github.com/brave/brave-browser",
+    "description": "Next generation Brave browser for macOS, Windows, Linux, and eventually Android",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 4658,
+    "forks": 451,
+    "currentPeriodStars": 266,
+    "builtBy": [
+      {
+        "username": "brave-browser-releases",
+        "href": "https://github.com/brave-browser-releases",
+        "avatar": "https://avatars2.githubusercontent.com/u/39539223"
+      },
+      {
+        "username": "bbondy",
+        "href": "https://github.com/bbondy",
+        "avatar": "https://avatars1.githubusercontent.com/u/831718"
+      },
+      {
+        "username": "mihaiplesa",
+        "href": "https://github.com/mihaiplesa",
+        "avatar": "https://avatars2.githubusercontent.com/u/907672"
+      },
+      {
+        "username": "bridiver",
+        "href": "https://github.com/bridiver",
+        "avatar": "https://avatars0.githubusercontent.com/u/34129"
+      },
+      {
+        "username": "simonhong",
+        "href": "https://github.com/simonhong",
+        "avatar": "https://avatars2.githubusercontent.com/u/6786187"
+      }
+    ]
+  },
+  {
+    "author": "nodejs",
+    "name": "node",
+    "avatar": "https://github.com/nodejs.png",
+    "url": "https://github.com/nodejs/node",
+    "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 65911,
+    "forks": 15505,
+    "currentPeriodStars": 947,
+    "builtBy": [
+      {
+        "username": "ry",
+        "href": "https://github.com/ry",
+        "avatar": "https://avatars2.githubusercontent.com/u/80"
+      },
+      {
+        "username": "bnoordhuis",
+        "href": "https://github.com/bnoordhuis",
+        "avatar": "https://avatars2.githubusercontent.com/u/275871"
+      },
+      {
+        "username": "Trott",
+        "href": "https://github.com/Trott",
+        "avatar": "https://avatars3.githubusercontent.com/u/718899"
+      },
+      {
+        "username": "isaacs",
+        "href": "https://github.com/isaacs",
+        "avatar": "https://avatars3.githubusercontent.com/u/9287"
+      },
+      {
+        "username": "addaleax",
+        "href": "https://github.com/addaleax",
+        "avatar": "https://avatars3.githubusercontent.com/u/899444"
+      }
+    ]
+  },
+  {
+    "author": "jasminmif",
+    "name": "react-interactive-paycard",
+    "avatar": "https://github.com/jasminmif.png",
+    "url": "https://github.com/jasminmif/react-interactive-paycard",
+    "description": "Interactive React Paycard",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 820,
+    "forks": 85,
+    "currentPeriodStars": 187,
+    "builtBy": [
+      {
+        "username": "jasminmif",
+        "href": "https://github.com/jasminmif",
+        "avatar": "https://avatars0.githubusercontent.com/u/16626134"
+      },
+      {
+        "username": "timiscoding",
+        "href": "https://github.com/timiscoding",
+        "avatar": "https://avatars1.githubusercontent.com/u/9711999"
+      },
+      {
+        "username": "ImgBotApp",
+        "href": "https://github.com/ImgBotApp",
+        "avatar": "https://avatars2.githubusercontent.com/u/31427850"
+      },
+      {
+        "username": "jetonk",
+        "href": "https://github.com/jetonk",
+        "avatar": "https://avatars1.githubusercontent.com/u/10130015"
+      },
+      {
+        "username": "jobintweets",
+        "href": "https://github.com/jobintweets",
+        "avatar": "https://avatars3.githubusercontent.com/u/26024383"
+      }
+    ]
+  },
+  {
+    "author": "MoePlayer",
+    "name": "DPlayer",
+    "avatar": "https://github.com/MoePlayer.png",
+    "url": "https://github.com/MoePlayer/DPlayer",
+    "description": "🍭 Wow, such a lovely HTML5 danmaku video player",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 7620,
+    "forks": 1254,
+    "currentPeriodStars": 462,
+    "builtBy": [
+      {
+        "username": "DIYgod",
+        "href": "https://github.com/DIYgod",
+        "avatar": "https://avatars2.githubusercontent.com/u/8266075"
+      },
+      {
+        "username": "A-Circle-Zhang",
+        "href": "https://github.com/A-Circle-Zhang",
+        "avatar": "https://avatars1.githubusercontent.com/u/11173242"
+      },
+      {
+        "username": "micooz",
+        "href": "https://github.com/micooz",
+        "avatar": "https://avatars0.githubusercontent.com/u/8897063"
+      },
+      {
+        "username": "kn007",
+        "href": "https://github.com/kn007",
+        "avatar": "https://avatars3.githubusercontent.com/u/6196903"
+      }
+    ]
+  },
+  {
+    "author": "30-seconds",
+    "name": "30-seconds-of-code",
+    "avatar": "https://github.com/30-seconds.png",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "description": "A curated collection of useful JavaScript snippets that you can understand in 30 seconds or less.",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 52263,
+    "forks": 5896,
+    "currentPeriodStars": 835,
+    "builtBy": [
+      {
+        "username": "Chalarangelo",
+        "href": "https://github.com/Chalarangelo",
+        "avatar": "https://avatars0.githubusercontent.com/u/8281875"
+      },
+      {
+        "username": "30secondsofcode",
+        "href": "https://github.com/30secondsofcode",
+        "avatar": "https://avatars1.githubusercontent.com/u/35068020"
+      },
+      {
+        "username": "fejes713",
+        "href": "https://github.com/fejes713",
+        "avatar": "https://avatars0.githubusercontent.com/u/25749162"
+      },
+      {
+        "username": "flxwu",
+        "href": "https://github.com/flxwu",
+        "avatar": "https://avatars1.githubusercontent.com/u/16862997"
+      },
+      {
+        "username": "kriadmin",
+        "href": "https://github.com/kriadmin",
+        "avatar": "https://avatars3.githubusercontent.com/u/31792358"
+      }
+    ]
+  },
+  {
+    "author": "algorithm-visualizer",
+    "name": "algorithm-visualizer",
+    "avatar": "https://github.com/algorithm-visualizer.png",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "description": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 25810,
+    "forks": 4194,
+    "currentPeriodStars": 363,
+    "builtBy": [
+      {
+        "username": "parkjs814",
+        "href": "https://github.com/parkjs814",
+        "avatar": "https://avatars3.githubusercontent.com/u/1618732"
+      },
+      {
+        "username": "nem035",
+        "href": "https://github.com/nem035",
+        "avatar": "https://avatars2.githubusercontent.com/u/9661806"
+      },
+      {
+        "username": "TornjV",
+        "href": "https://github.com/TornjV",
+        "avatar": "https://avatars2.githubusercontent.com/u/13820300"
+      },
+      {
+        "username": "duaraghav8",
+        "href": "https://github.com/duaraghav8",
+        "avatar": "https://avatars0.githubusercontent.com/u/12758282"
+      },
+      {
+        "username": "nadr0",
+        "href": "https://github.com/nadr0",
+        "avatar": "https://avatars2.githubusercontent.com/u/1581329"
+      }
+    ]
+  },
+  {
+    "author": "fabricjs",
+    "name": "fabric.js",
+    "avatar": "https://github.com/fabricjs.png",
+    "url": "https://github.com/fabricjs/fabric.js",
+    "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 14400,
+    "forks": 2275,
+    "currentPeriodStars": 406,
+    "builtBy": [
+      {
+        "username": "kangax",
+        "href": "https://github.com/kangax",
+        "avatar": "https://avatars2.githubusercontent.com/u/383"
+      },
+      {
+        "username": "asturur",
+        "href": "https://github.com/asturur",
+        "avatar": "https://avatars1.githubusercontent.com/u/1194048"
+      },
+      {
+        "username": "Kienz",
+        "href": "https://github.com/Kienz",
+        "avatar": "https://avatars1.githubusercontent.com/u/954545"
+      },
+      {
+        "username": "GordoRank",
+        "href": "https://github.com/GordoRank",
+        "avatar": "https://avatars3.githubusercontent.com/u/6388079"
+      },
+      {
+        "username": "inssein",
+        "href": "https://github.com/inssein",
+        "avatar": "https://avatars3.githubusercontent.com/u/882228"
+      }
+    ]
+  },
+  {
+    "author": "jupyter",
+    "name": "notebook",
+    "avatar": "https://github.com/jupyter.png",
+    "url": "https://github.com/jupyter/notebook",
+    "description": "Jupyter Interactive Notebook",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 6548,
+    "forks": 2715,
+    "currentPeriodStars": 39,
+    "builtBy": [
+      {
+        "username": "minrk",
+        "href": "https://github.com/minrk",
+        "avatar": "https://avatars1.githubusercontent.com/u/151929"
+      },
+      {
+        "username": "jdfreder",
+        "href": "https://github.com/jdfreder",
+        "avatar": "https://avatars3.githubusercontent.com/u/3292874"
+      },
+      {
+        "username": "takluyver",
+        "href": "https://github.com/takluyver",
+        "avatar": "https://avatars3.githubusercontent.com/u/327925"
+      },
+      {
+        "username": "Carreau",
+        "href": "https://github.com/Carreau",
+        "avatar": "https://avatars0.githubusercontent.com/u/335567"
+      },
+      {
+        "username": "ellisonbg",
+        "href": "https://github.com/ellisonbg",
+        "avatar": "https://avatars0.githubusercontent.com/u/27600"
+      }
+    ]
+  },
+  {
+    "author": "mui-org",
+    "name": "material-ui",
+    "avatar": "https://github.com/mui-org.png",
+    "url": "https://github.com/mui-org/material-ui",
+    "description": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 52377,
+    "forks": 13096,
+    "currentPeriodStars": 940,
+    "builtBy": [
+      {
+        "username": "oliviertassinari",
+        "href": "https://github.com/oliviertassinari",
+        "avatar": "https://avatars2.githubusercontent.com/u/3165635"
+      },
+      {
+        "username": "hai-cea",
+        "href": "https://github.com/hai-cea",
+        "avatar": "https://avatars3.githubusercontent.com/u/2007468"
+      },
+      {
+        "username": "mbrookes",
+        "href": "https://github.com/mbrookes",
+        "avatar": "https://avatars1.githubusercontent.com/u/357702"
+      },
+      {
+        "username": "eps1lon",
+        "href": "https://github.com/eps1lon",
+        "avatar": "https://avatars0.githubusercontent.com/u/12292047"
+      },
+      {
+        "username": "nathanmarks",
+        "href": "https://github.com/nathanmarks",
+        "avatar": "https://avatars1.githubusercontent.com/u/4420103"
+      }
+    ]
+  },
+  {
+    "author": "facebook",
+    "name": "react-native",
+    "avatar": "https://github.com/facebook.png",
+    "url": "https://github.com/facebook/react-native",
+    "description": "A framework for building native apps with React.",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 82802,
+    "forks": 18526,
+    "currentPeriodStars": 218,
+    "builtBy": [
+      {
+        "username": "shergin",
+        "href": "https://github.com/shergin",
+        "avatar": "https://avatars3.githubusercontent.com/u/22032"
+      },
+      {
+        "username": "javache",
+        "href": "https://github.com/javache",
+        "avatar": "https://avatars3.githubusercontent.com/u/5676"
+      },
+      {
+        "username": "davidaurelio",
+        "href": "https://github.com/davidaurelio",
+        "avatar": "https://avatars1.githubusercontent.com/u/158859"
+      },
+      {
+        "username": "sahrens",
+        "href": "https://github.com/sahrens",
+        "avatar": "https://avatars3.githubusercontent.com/u/1509831"
+      },
+      {
+        "username": "mkonicek",
+        "href": "https://github.com/mkonicek",
+        "avatar": "https://avatars1.githubusercontent.com/u/346214"
+      }
+    ]
+  },
+  {
+    "author": "facebook",
+    "name": "react",
+    "avatar": "https://github.com/facebook.png",
+    "url": "https://github.com/facebook/react",
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 139844,
+    "forks": 26613,
+    "currentPeriodStars": 464,
+    "builtBy": [
+      {
+        "username": "zpao",
+        "href": "https://github.com/zpao",
+        "avatar": "https://avatars0.githubusercontent.com/u/8445"
+      },
+      {
+        "username": "gaearon",
+        "href": "https://github.com/gaearon",
+        "avatar": "https://avatars0.githubusercontent.com/u/810438"
+      },
+      {
+        "username": "bvaughn",
+        "href": "https://github.com/bvaughn",
+        "avatar": "https://avatars0.githubusercontent.com/u/29597"
+      },
+      {
+        "username": "sophiebits",
+        "href": "https://github.com/sophiebits",
+        "avatar": "https://avatars2.githubusercontent.com/u/6820"
+      },
+      {
+        "username": "sebmarkbage",
+        "href": "https://github.com/sebmarkbage",
+        "avatar": "https://avatars3.githubusercontent.com/u/63648"
+      }
+    ]
+  },
+  {
+    "author": "system-ui",
+    "name": "theme-ui",
+    "avatar": "https://github.com/system-ui.png",
+    "url": "https://github.com/system-ui/theme-ui",
+    "description": "Build consistent, themeable React apps based on constraint-based design principles",
+    "language": "JavaScript",
+    "languageColor": "#f1e05a",
+    "stars": 1264,
+    "forks": 122,
+    "currentPeriodStars": 59,
+    "builtBy": [
+      {
+        "username": "jxnblk",
+        "href": "https://github.com/jxnblk",
+        "avatar": "https://avatars3.githubusercontent.com/u/3451712"
+      },
+      {
+        "username": "jordanoverbye",
+        "href": "https://github.com/jordanoverbye",
+        "avatar": "https://avatars3.githubusercontent.com/u/6265154"
+      },
+      {
+        "username": "johno",
+        "href": "https://github.com/johno",
+        "avatar": "https://avatars1.githubusercontent.com/u/1424573"
+      },
+      {
+        "username": "dburles",
+        "href": "https://github.com/dburles",
+        "avatar": "https://avatars2.githubusercontent.com/u/319567"
+      }
+    ]
+  }
+]
