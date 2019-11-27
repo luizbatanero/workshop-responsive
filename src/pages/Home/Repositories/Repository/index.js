@@ -2,11 +2,11 @@ import React from 'react';
 import { GoGitBranch, GoStar } from 'react-icons/go';
 
 import { Container, RepositoryStats } from './styles';
+import avatar from 'assets/images/node.png';
 
 function Repository({ repo }) {
   const {
     url,
-    avatar,
     name,
     description,
     forks,
