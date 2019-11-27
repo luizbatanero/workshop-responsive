@@ -1,5 +1,5 @@
 import styled, { css } from 'styled-components';
-import { below } from 'styles/media';
+import { below, above } from 'styles/media';
 
 import Center from 'components/Center';
 
@@ -10,11 +10,13 @@ export const Container = styled.div`
 `;
 
 export const Wrapper = styled(Center)`
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-gap: 2rem;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
 
-  > a {
-    width: 280px;
-    margin: 0 1rem 2rem;
-  }
+  ${above(700, css`
+    > a:first-child {
+      grid-column: span 2;
+    }
+  `)}
 `;

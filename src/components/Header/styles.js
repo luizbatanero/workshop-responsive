@@ -27,6 +27,22 @@ export const Title = styled.h1`
 export const Nav = styled.nav`
   display: flex;
   align-items: center;
+
+  ${below('md', css`
+    display: none;
+  `)}
+
+  ${({ open }) => open && below('md', css`
+    display: flex;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, 0.9);
+    flex-direction: column;
+    justify-content: center;
+  `)}
 `;
 
 export const Link = styled.a.attrs({
@@ -72,4 +88,55 @@ export const Link = styled.a.attrs({
       color: ${theme.accent};
     }
   `}
+
+  ${below('md', css`
+    font-size: 2.4rem;
+
+    & + a {
+      margin-left: 0;
+      margin-top: 2rem;
+    }
+  `)}
+`;
+
+export const NavToggle = styled.button`
+  width: 30px;
+  height: 20px;
+  background: none;
+  border: 0;
+  position: relative;
+  outline: 0;
+
+  span {
+    display: block;
+    width: 100%;
+    height: 4px;
+    background: ${({ theme }) => theme.primary};
+
+    &::before, &::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background: inherit;
+    }
+
+    &::before {
+      top: 0;
+    }
+
+    &::after {
+      bottom: 0;
+    }
+  }
+
+  ${above('md', css`
+    display: none;
+  `)}
+
+  ${({ open }) => open && below('md', css`
+    position: fixed;
+    right: 5%;
+  `)}
 `;

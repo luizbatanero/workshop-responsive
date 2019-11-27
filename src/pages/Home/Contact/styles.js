@@ -5,6 +5,10 @@ import Center from 'components/Center';
 
 export const Container = styled.div`
   padding: 10rem 0;
+
+  ${below('lg', css`
+    padding: 6rem 0;
+  `)}
 `;
 
 export const Wrapper = styled(Center)``;
@@ -36,6 +40,25 @@ export const ContactInfo = styled.div`
       color: #666;
     }
   }
+
+  ${below(890, css`
+    > div {
+      width: 100%;
+
+      & + div {
+        margin-top: 4rem;
+      }
+
+      p {
+        font-size: 1.8rem;
+      }
+    }
+  `)}
+
+  ${below(750, css`
+    flex-direction: column;
+    align-items: center;
+  `)}
 `;
 
 export const ContactForm = styled.form`
@@ -85,6 +108,11 @@ export const ContactForm = styled.form`
       color: ${({ theme }) => theme.primary};
     }
   }
+
+  ${below('md', css`
+    width: 100%;
+    max-width: 70rem;
+  `)}
 `;
 
 export const FormRow = styled.div`
@@ -97,4 +125,13 @@ export const FormRow = styled.div`
   & + & {
     margin-top: 1rem;
   }
+
+  ${below(400, css`
+    flex-direction: column;
+
+    * + * {
+      margin-left: 0;
+      margin-top: 1rem;
+    }
+  `)}
 `;

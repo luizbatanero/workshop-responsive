@@ -23,6 +23,18 @@ export const Container = styled.a`
     width: 14px;
     height: 14px;
   }
+
+  ${below('lg', css`
+    width: calc(50% - 2rem);
+  `)}
+
+  ${below(750, css`
+    width: 100%;
+
+    & + a {
+      margin-top: 4rem;
+    }
+  `)}
 `;
 
 export const PostContent = styled.div`
@@ -37,6 +49,16 @@ export const PostContent = styled.div`
     margin-top: -40px;
     margin-right: 2.5rem;
   }
+
+  ${below(750, css`
+    flex-direction: column;
+
+    img {
+      width: 60px;
+      height: 60px;
+      margin-bottom: 1.5rem;
+    }
+  `)}
 `;
 
 export const PostText = styled.div`

@@ -1,4 +1,5 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle, css } from 'styled-components';
+import { below } from 'styles/media';
 
 export default createGlobalStyle`
   @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,700&display=swap');
@@ -23,6 +24,14 @@ export default createGlobalStyle`
 
   html {
     font-size: 62.5%;
+
+    ${below('lg', css`
+      font-size: 58%;
+    `)}
+
+    ${below('md', css`
+      font-size: 54%;
+    `)}
   }
 
   body, input, textarea {
