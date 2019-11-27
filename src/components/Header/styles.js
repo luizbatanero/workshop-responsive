@@ -1,4 +1,5 @@
 import styled, { css } from 'styled-components';
+import { below, above } from 'styles/media';
 
 import Center from 'components/Center';
 

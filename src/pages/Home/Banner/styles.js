@@ -1,4 +1,5 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
+import { below } from 'styles/media';
 
 import Center from 'components/Center';
 
