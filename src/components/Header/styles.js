@@ -25,6 +25,8 @@ export const Title = styled.h1`
 `;
 
 export const Nav = styled.nav`
+  display: flex;
+  align-items: center;
 `;
 
 export const Link = styled.a.attrs({
