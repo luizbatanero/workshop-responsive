@@ -112,6 +112,7 @@ export const NavToggle = styled.button`
     width: 100%;
     height: 4px;
     background: ${({ theme }) => theme.primary};
+    transition: .2s;
 
     &::before, &::after {
       content: '';
@@ -120,6 +121,7 @@ export const NavToggle = styled.button`
       width: 100%;
       height: 4px;
       background: inherit;
+      transition: .2s;
     }
 
     &::before {
@@ -130,6 +132,25 @@ export const NavToggle = styled.button`
       bottom: 0;
     }
   }
+
+  ${({ open }) => open && css`
+    span {
+      background: transparent;
+
+      &::before, &::after {
+        background: ${({ theme }) => theme.primary};
+        top: 8px;
+      }
+
+      &::before {
+        transform: rotate(-45deg);
+      }
+
+      &::after {
+        transform: rotate(45deg);
+      }
+    }
+  `}
 
   ${above('md', css`
     display: none;
